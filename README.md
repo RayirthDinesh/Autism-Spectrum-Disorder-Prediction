@@ -1,10 +1,10 @@
 # Autism-Spectrum-Disorder-ASD-Prediction
+Note: To view the visualizations, data & more please download the ASDPrediction.ipynb file and run each cell inorder
 
 Abstract:
 This research aims to accurately diagnose Autism Spectrum Disorder (ASD) and identify significant predictors of ASD using demographic, genetic, behavioral, and other medical-history data. The importance of this study lies in addressing the high prevalence of ASD currently with no functional means of prevention. These aims can help the field reach a step closer to finding a viable solution. 
 
 The study collected data from clinical assessments and analysis techniques such as statistical modeling and machine learning algorithms. These methods were used to identify patterns and accurately diagnose ASD. The major conclusions indicate that logistic regression, random forest, and SVM models performed the best, predicting ASD with ~87% accuracy. Additionally, factors like age, gender, and ethnicity have weak associations with ASD diagnosis. In contrast, having an immediate family member diagnosed with autism, and high scores on the Autism Spectrum Quotient (AQ) 10-item screening test show moderate to strong associations with diagnosis.
-
 
 
 Features:
